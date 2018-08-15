@@ -1,3 +1,8 @@
+> [GitHub](https://www.github.com/jeandavid) |
+[LinkedIn](https://www.linkedin.com/in/jeandavidmp) |
+[jdpeirolo@gmail.com](mailto:jdpeirolo@gmail.com) |
+[+972-54-727-5464](tel:00972547275464)
+
 # Jean-David Morgenstern-Peirolo &ndash; Software Engineer
 - 4+ years of experience as a software engineer in various industries
 - Full stack skill-set with a concentration on mobile engineering
