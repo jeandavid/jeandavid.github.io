@@ -16,7 +16,7 @@ I am a fast learner and a curious entrepreneur. I have spent the past 4 years bu
 ## Experience
 **LobbyApp**  
 CEO & Founder  
-Cross platform push notification delivery system. Built on top of Firebase Cloud Messaging, Lobby provides communities with a simple interface to push notifications to their members.
+Cross platform push notification delivery system. Built on top of Firebase Cloud Messaging, Lobby provides communities with a simple interface to push notifications to their members.   
 *April 2017 &ndash; Present*  
 
 **Yaylearn**  
@@ -68,5 +68,5 @@ Squad Leader - Golani Brigade
 *2009 – 2011*
 
 ## Hobbies
-I love playing and watching football. I read the Wall Street Journal daily, the Economist weekly. Every day I learn something new on the technology I use, whether from medium.com, WWDC videos or one of the many swift newsletter I have subscribed to.
+I love playing and watching football. I read the Wall Street Journal daily, the Economist weekly. Every day I learn something new on the technology I use, whether from medium.com, WWDC videos or one of the many swift newsletters I have subscribed to.
 But hanging out with my wife and our two amazing young daughters is my favorite activity.
