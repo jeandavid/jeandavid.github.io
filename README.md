@@ -47,13 +47,13 @@ Bachelor of Science (BSc), Mathematics
 ## Projects
 **Anesthesia Plans**  
 Anesthesia Plans helps anesthesiologists build their anesthetic treatment in a few easy steps.  
-Published on the Apple Store and on Google Play.  
-Open sourced on github.  
+Published on the [Apple Store](https://itunes.apple.com/il/app/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%95%D7%AA-%D7%94%D7%A8%D7%93%D7%9E%D7%94/id1402481339?mt=8) and on [Google Play](https://play.google.com/store/apps/details?id=com.elishou.anesthesiaplan).  
+Open sourced on [github](https://github.com/jeandavid/anesthesia_plan_ios).  
 *2018*
 
 **Eli7 - Anesthesiology Residency Exam Study App**  
 A mobile app to study for the Anesthesiology residency exam.   
-Published on the Apple Store and on Google Play.  
+Published on the [Apple Store](https://itunes.apple.com/il/app/eli7/id1380037770?mt=8) and on [Google Play](https://play.google.com/store/apps/details?id=com.elishou.eli7).  
 *2018*
 
 ## Volunteer Experience
