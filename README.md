@@ -5,12 +5,18 @@
 
 # Jean-David Morgenstern-Peirolo &ndash; Software Engineer
 - 4+ years of experience as a software engineer in various industries
-- Full stack skill-set with a concentration on mobile engineering
+- Full stack skill-set with a concentration on mobile engineering, both iOS and Android
+- Experience with the entire lifecycle of web and mobile app from design to deployment
+- Product person with a strong entrepreneurship background
 - I write Swift code every day
+
+## Motivation
+I am a fast learner and a curious entrepreneur. I have spent the past 4 years building apps from zero to launch. I am now looking to get into larger, more mature project and teams. My next challenge is to work with some of the amazing iOS frameworks for AI such as CoreML, Vision, ARKit, Metal API, Natural Language.
 
 ## Experience
 **LobbyApp**  
 CEO & Founder  
+Cross platform push notification delivery system. Built on top of Firebase Cloud Messaging, Lobby provides communities with a simple interface to push notifications to their members.
 *April 2017 &ndash; Present*  
 
 **Yaylearn**  
@@ -60,3 +66,7 @@ Published on the [Apple Store](https://itunes.apple.com/il/app/eli7/id1380037770
 **Israel Defense Forces**  
 Squad Leader - Golani Brigade  
 *2009 – 2011*
+
+## Hobbies
+I love playing and watching football. I read the Wall Street Journal daily, the Economist weekly. Every day I learn something new on the technology I use, whether from medium.com, WWDC videos or one of the many swift newsletter I have subscribed to.
+But hanging out with my wife and our two amazing young daughters is my favorite activity.
