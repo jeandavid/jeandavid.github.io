@@ -20,9 +20,6 @@ Cross platform push notification delivery system. Built on top of Firebase Cloud
 - Built and licensed iOS and Android UI SDK for receiving and interacting with push notifications.
 - Developed a web platform that makes sending a push notification as easy as sending an email.  
 
-*April 2017 &ndash; Present*  
-- Built and licensed iOS and Android UI SDK for receiving and interacting with push notifications.
-- Developed a web platform that makes sending a push notification as easy as sending an email.  
 *April 2017 &ndash; Present*
 
 **Yaylearn**  
@@ -30,13 +27,15 @@ CEO & Founder
 Mobile app for teachers and students to create a more effective Q/A environment.  
 - Launched the app in 5 schools.
 - Challenged to build an intuitive, useful and super fast app such that students would feel ready to drop WhatsApp as their main school communication service.
+
 *June 2015 &ndash; April 2017*  
 
 **Studium**  
 CEO & Founder  
 Web and mobile platform where students can find tutors and get help in a virtual classroom.  
 - Launched a marketplace with a focus on applying lean startup principles and keeping a short iteration loop.
-- Developed an integrated virtual classroom with live video, text chat and real time collaborative whiteboard.   
+- Developed an integrated virtual classroom with live video, text chat and real time collaborative whiteboard.
+   
 *January 2014 &ndash; June 2015*
 
 ## Education
