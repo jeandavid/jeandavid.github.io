@@ -16,18 +16,24 @@ I am a fast learner and a curious entrepreneur. I have spent the past 4 years bu
 ## Experience
 **LobbyApp**  
 CEO & Founder  
-Cross platform push notification delivery system. Built on top of Firebase Cloud Messaging, Lobby provides communities with a simple interface to push notifications to their members.   
+Cross platform push notification delivery system. Built on top of Firebase Cloud Messaging, Lobby provides communities with a simple interface to push notifications to their members.  
+- Built and licensed iOS and Android UI SDK for receiving and interacting with push notifications
+- Developed a web platform that makes sending a push notification as easy as sending an email
 *April 2017 &ndash; Present*  
 
 **Yaylearn**  
 CEO & Founder  
-Mobile app for teachers and students to create a more effective Q/A environment.   
+Mobile app for teachers and students to create a more effective Q/A environment.  
+- Launched the app in 5 schools
+- Challenged to build an intuitive, useful and super fast app such that students would feel ready to drop WhatsApp as their main school communication service
 *June 2015 &ndash; April 2017*  
 
 **Studium**  
 CEO & Founder  
 Web and mobile platform where students can find tutors and get help in a virtual classroom.  
-*January 2014 &ndash; June 2015*  
+- Launched a marketplace with a focus on applying lean startup principles and keeping a short iteration loop
+- Developed an integrated virtual classroom with live video, text chat and real time collaborative whiteboard   
+*January 2014 &ndash; June 2015*
 
 ## Education
 **Columbia University in the City of New York**  
@@ -46,6 +52,7 @@ Bachelor of Science (BSc), Mathematics
 ## Skills
 - **Programming Paradigms:** Protocol-Oriented Programming, Object-Oriented Programming, Imperative & Functional Programming
 - **Programming Languages:** Swift, Java, Python, C, Elixir, Ruby, JavaScript
+- **Web Services:** AWS, Firebase, Heroku
 - **Architectural Pattern:** MVC, MVVM
 - **UI/UX:** Mobile-first Design, Responsive Web Design
 - **Spoken Languages:** English, French and Hebrew
