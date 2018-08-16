@@ -18,8 +18,8 @@ I am a fast learner and a curious entrepreneur. I have spent the past 4 years bu
 CEO & Founder  
 Cross platform push notification delivery system. Built on top of Firebase Cloud Messaging, Lobby provides communities with a simple interface to push notifications to their members.  
 - Built and licensed iOS and Android UI SDK for receiving and interacting with push notifications.
-- Developed a web platform that makes sending a push notification as easy as sending an email.
-*April 2017 &ndash; Present*  
+- Developed a web platform that makes sending a push notification as easy as sending an email.  
+*April 2017 &ndash; Present*
 
 **Yaylearn**  
 CEO & Founder  
