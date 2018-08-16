@@ -35,7 +35,7 @@ CEO & Founder
 Web and mobile platform where students can find tutors and get help in a virtual classroom.  
 - Launched a marketplace with a focus on applying lean startup principles and keeping a short iteration loop.
 - Developed an integrated virtual classroom with live video, text chat and real time collaborative whiteboard.
-   
+
 *January 2014 &ndash; June 2015*
 
 ## Education
@@ -48,7 +48,7 @@ Master of Science (MSc), Computer Science
 Graduate Certificate, Computer Science  
 *2012 – 2013*
 
-**The Hebrew University**  
+**The Hebrew University of Jerusalem**  
 Bachelor of Science (BSc), Mathematics  
 *2007 – 2009*
 
