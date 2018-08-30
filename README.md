@@ -5,8 +5,8 @@
 
 # Jean-David Morgenstern-Peirolo &ndash; Software Engineer
 - 4+ years of experience as a software engineer in various industries
-- Full stack skill-set with a concentration on mobile engineering, both iOS and Android
-- Experience with the entire lifecycle of web and mobile app from design to deployment
+- Full stack engineer with a focus on mobile engineering (both iOS and Android)
+- Own the entire lifecycle of web and mobile apps: from design to deployment
 - Product person with a strong entrepreneurship background
 - I write Swift code every day
 
@@ -16,7 +16,8 @@ I am a fast learner and a curious entrepreneur. I have spent the past 4 years bu
 ## Experience
 **LobbyApp**  
 CEO & Founder  
-Cross platform push notification delivery system. Built on top of Firebase Cloud Messaging, Lobby provides communities with a simple interface to push notifications to their members  
+Saas solution serving the public sector to boost civil engagement, LobbyApp provides government organizations with a cross platform push notification delivery system.
+- Designed a layer on top of Firebase Cloud Messaging.  
 - Built and licensed iOS and Android UI SDK for receiving and interacting with push notifications
 - Developed a web platform that makes sending a push notification as easy as sending an email  
 
@@ -24,28 +25,29 @@ Cross platform push notification delivery system. Built on top of Firebase Cloud
 
 **Yaylearn**  
 CEO & Founder  
-Mobile app for teachers and students to create a more effective Q/A environment 
+E-Learning mobile app for teachers and students to create a more effective Q/A environment and learning experience.
 - Launched the app in 5 schools
-- Built an intuitive and super-fast app to get students to switch from WhatsApp as their main school communication service
+- Got students to drop WhatsApp as their main school communication service
 
 *June 2015 &ndash; April 2017*  
 
 **Studium**  
 CEO & Founder  
-Web and mobile platform where students can find tutors and get help in a virtual classroom  
-- Launched a marketplace with a focus on applying lean startup principles and keeping a short iteration loop
-- Developed an integrated virtual classroom with live video, text chat and real-time collaborative whiteboard
+Web and mobile platform where students can find tutors and take lessons in a virtual classroom.
+- Product Management: Launched a marketplace with a focus on applying lean startup principles and keeping a short iteration loop
+- Full-Stack Web Development: Developed an integrated virtual classroom with live video, text chat and real-time collaborative whiteboard
 
 *January 2014 &ndash; June 2015*
 
 ## Education
 **Columbia University in the City of New York**  
 Master of Science (MSc), Computer Science
-*Machine Learning Track*  
+*Machine Learning Track: Machine Learning (COMS 4771), Natural Language Processing (COMS 4705), Computational Learning Theory (COMS 4252)*  
 *2013 – 2016*
 
 **Stanford University**  
-Graduate Certificate, Computer Science  
+Graduate Certificate, Computer Science
+*Intro to AI (CS 221), Algorithm(CS 161)*  
 *2012 – 2013*
 
 **The Hebrew University of Jerusalem**  
@@ -58,6 +60,7 @@ Bachelor of Science (BSc), Mathematics
 - **Web Services:** AWS, Firebase, Heroku
 - **Architectural Pattern:** MVC, MVVM
 - **UI/UX:** Mobile-first Design, Responsive Web Design
+- **Product Management:** Lean Startup Principles, Financial modeling and forecasting.
 - **Spoken Languages:** English, French and Hebrew
 
 ## Projects
@@ -79,4 +82,4 @@ Squad Leader - Golani Brigade
 
 ## Hobbies
 I love playing and watching football. I read the Wall Street Journal daily, the Economist weekly. Every day I learn something new on the technology I use, whether from medium.com, WWDC videos or one of the many swift newsletters I have subscribed to.
-But hanging out with my wife and our two amazing young daughters is my favorite activity.
+And of course, I love to hang out with my wife and our two amazing young daughters.
