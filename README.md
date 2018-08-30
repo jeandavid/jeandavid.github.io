@@ -17,7 +17,7 @@ I am a fast learner and a curious entrepreneur. I have spent the past 4 years bu
 **LobbyApp**  
 CEO & Founder  
 Saas solution serving the public sector to boost civil engagement, LobbyApp provides government organizations with a cross platform push notification delivery system.
-- Designed a layer on top of Firebase Cloud Messaging.  
+- Designed a layer on top of Firebase Cloud Messaging
 - Built and licensed iOS and Android UI SDK for receiving and interacting with push notifications
 - Developed a web platform that makes sending a push notification as easy as sending an email  
 
@@ -82,4 +82,4 @@ Squad Leader - Golani Brigade
 
 ## Hobbies
 I love playing and watching football. I read the Wall Street Journal daily, the Economist weekly. Every day I learn something new on the technology I use, whether from medium.com, WWDC videos or one of the many swift newsletters I have subscribed to.
-And of course, I love to hang out with my wife and our two amazing young daughters.
+And of course, I love to hang out with my wife and our two amazing daughters.
