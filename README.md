@@ -3,7 +3,7 @@
 [jdpeirolo@gmail.com](mailto:jdpeirolo@gmail.com) |
 [+972-54-727-5464](tel:00972547275464)
 
-# Jean-David Morgenstern-Peirolo &ndash; Software Engineer
+# Jean-David Morgenstern &ndash; Software Engineer
 - 4+ years of experience as a software engineer in various industries
 - Full stack engineer with a focus on mobile engineering (both iOS and Android)
 - Own the entire lifecycle of web and mobile apps: from design to deployment
@@ -11,7 +11,7 @@
 - I write Swift code every day
 
 ## Motivation
-I am a fast learner and a curious entrepreneur. I have spent the past 4 years building apps from zero to launch. I am now looking to get into larger, more mature project and teams. My next challenge is to work with some of the amazing iOS frameworks for AI such as CoreML, Vision, ARKit, Metal API, Natural Language.
+I am a fast learner and a curious entrepreneur. I have spent the past 4 years building apps from zero to launch. I am now looking to get into larger, more mature project and teams. My goal is to work with some of the amazing iOS frameworks for AI such as CoreML, Vision, ARKit, Metal API, Natural Language.
 
 ## Experience
 **LobbyApp**  
