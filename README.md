@@ -4,19 +4,13 @@
 [+972-54-727-5464](tel:00972547275464)
 
 # Jean-David Morgenstern &ndash; Software Engineer
-- 4+ years of experience as a software engineer in various industries
-- Full stack engineer with a focus on mobile engineering (both iOS and Android)
-- Own the entire lifecycle of web and mobile apps: from design to deployment
-- Product person with a strong entrepreneurship background
-- I write Swift code every day
-
-## Motivation
-I am a fast learner and a curious entrepreneur. I have spent the past 4 years building apps from zero to launch. I am now looking to get into larger, more mature project and teams. My goal is to work with some of the amazing iOS frameworks for AI such as CoreML, Vision, ARKit, Metal API, Natural Language.
+I am a curious entrepreneur who writes Swift code every day. As a full stack engineer with a focus on mobile engineering, I have spent the past 4 years building apps from zero to launch. I have experience with the entire lifecycle of web and mobile apps, both on iOS and Android.
+I am now looking to get into larger, more mature project and teams. My goal is to work with some of the amazing iOS frameworks for AI such as CoreML, Vision, ARKit, Metal API, Natural Language.
 
 ## Experience
 **LobbyApp**  
 CEO & Founder  
-Saas solution serving the public sector to boost civil engagement, LobbyApp provides government organizations with a cross platform push notification delivery system.
+SaaS solution serving the public sector to boost civil engagement, LobbyApp provides government organizations with a cross platform push notification delivery system.
 - Designed a layer on top of Firebase Cloud Messaging
 - Built and licensed iOS and Android UI SDK for receiving and interacting with push notifications
 - Developed a web platform that makes sending a push notification as easy as sending an email  
@@ -70,8 +64,8 @@ Published on the [Apple Store](https://itunes.apple.com/il/app/%D7%AA%D7%95%D7%9
 Open sourced on [github](https://github.com/jeandavid/anesthesia_plan_ios).  
 *2018*
 
-**Eli7 - Anesthesiology Residency Exam Study App**  
-A mobile app to study for the Anesthesiology residency exam.   
+**Eli7 - Anesthesiology Study App**  
+A mobile app to study for the national Anesthesiology residency exam.   
 Published on the [Apple Store](https://itunes.apple.com/il/app/eli7/id1380037770?mt=8) and on [Google Play](https://play.google.com/store/apps/details?id=com.elishou.eli7).  
 *2018*
 
