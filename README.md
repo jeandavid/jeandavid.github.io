@@ -36,11 +36,13 @@ Web and mobile platform where students can find tutors and take lessons in a vir
 ## Education
 **Columbia University in the City of New York**  
 Master of Science (MSc), Computer Science
+
 *Machine Learning Track: Machine Learning (COMS 4771), Natural Language Processing (COMS 4705), Computational Learning Theory (COMS 4252)*  
 *2013 – 2016*
 
 **Stanford University**  
 Graduate Certificate, Computer Science
+
 *Intro to AI (CS 221), Algorithm(CS 161)*  
 *2012 – 2013*
 
