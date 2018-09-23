@@ -4,11 +4,11 @@
 [+972-54-727-5464](tel:00972547275464)
 
 # Jean-David Morgenstern &ndash; Software Engineer
-I thrive in a creative and vigorous atmosphere where my coding skills and interpersonal skills are put in action. I have spent the past 4 years designing and building apps from zero to launch. This has given me experience with the entire life cycle of web and mobile apps, both on iOS and Android. From my entrepreneurial mindset I bring self discipline, courage, and open-mindedness, while my passion for coding remains constant. I write Swift code everyday.
+I thrive in a creative and vigorous atmosphere where my coding skills and interpersonal skills are put in action. I have spent the past 4 years designing and building apps from zero to launch. This has given me experience with the entire life cycle of web and mobile apps, both on iOS and Android. From my entrepreneurial mindset I bring self discipline, courage, and open-mindedness, while my passion for coding remains constant. I write Swift code every day.
 
 ## Experience
 **LobbyApp**  
-CEO & Founder  
+Founder  
 SaaS solution serving the public sector to boost civil engagement, LobbyApp provides government organizations with a cross platform push notification delivery system.
 - Designed a layer on top of Firebase Cloud Messaging
 - Built and licensed iOS and Android UI SDK for receiving and interacting with push notifications
@@ -17,7 +17,7 @@ SaaS solution serving the public sector to boost civil engagement, LobbyApp prov
 *April 2017 &ndash; Present*
 
 **Yaylearn**  
-CEO & Founder  
+Founder  
 E-Learning mobile app for teachers and students to create a more effective Q/A environment and learning experience.
 - Launched the app in 5 schools
 - Got students to drop WhatsApp as their main school communication service
@@ -26,7 +26,7 @@ E-Learning mobile app for teachers and students to create a more effective Q/A e
 *June 2015 &ndash; April 2017*  
 
 **Studium**  
-CEO & Founder  
+Founder  
 Web and mobile platform where students can find tutors and take lessons in a virtual classroom.
 - Product Management: Launched a marketplace with a focus on applying lean startup principles and keeping a short iteration loop
 - Full-Stack Web Development: Developed an integrated virtual classroom with live video, text chat and real-time collaborative whiteboard; Backend API built with Ruby on Rails and web client built with Angular
