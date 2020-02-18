@@ -3,10 +3,23 @@
 [jdpeirolo@gmail.com](mailto:jdpeirolo@gmail.com) |
 [+972-54-727-5464](tel:00972547275464)
 
-# Jean-David Morgenstern &ndash; Software Engineer
-I thrive in a creative and vigorous atmosphere where my coding skills and interpersonal skills are put in action. I have spent the past 4 years designing and building apps from zero to launch. This has given me experience with the entire life cycle of web and mobile apps, both on iOS and Android. From my entrepreneurial mindset I bring self discipline, courage, and open-mindedness, while my passion for coding remains constant. I write Swift code every day.
+# Jean-David Morgenstern &ndash; Mobile Software Engineer
+I thrive in a creative and vigorous atmosphere where my coding skills and interpersonal skills are put in action. I spent 4 years designing and building apps from zero to launch, and now work on the mobile infrastructure @Houzz. This has given me experience with the entire life cycle of web and mobile apps, both on iOS and Android. From my entrepreneurial mindset I bring self discipline, courage, and open-mindedness, while my passion for coding remains constant. I write Swift code every day.
 
 ## Experience
+**Houzz | Mobile Infrastructure**  
+My job is to enable our apps and engineering team to scale together.
+My work consists in fostering a modular architecture and in providing the tools to support it.
+
+*August 2019 &ndash; Present*
+
+**Houzz | Marketplace**    
+- Visual Search: Design and implement our app visual search feature that enables user to take a picture of a furniture, crop and process the image and then shop for similar products
+- Comments Page: Refactor of comment list after thorough profiling that resulted in significant scrolling performance gains
+- Input Bar: Design and implement our new input bar that enables users to add text and attachments on top of the device keyboard
+
+*Oct 2018 &ndash; August 2019*
+
 **LobbyApp**  
 Founder  
 SaaS solution serving the public sector to boost civil engagement, LobbyApp provides government organizations with a cross platform push notification delivery system.
@@ -14,7 +27,7 @@ SaaS solution serving the public sector to boost civil engagement, LobbyApp prov
 - Built and licensed iOS and Android UI SDK for receiving and interacting with push notifications
 - Developed a web platform (React+Redux) that makes sending a push notification as easy as sending an email
 
-*April 2017 &ndash; Present*
+*April 2017 &ndash; September 2018*
 
 **Yaylearn**  
 Founder  
@@ -58,15 +71,15 @@ Bachelor of Science (BSc), Mathematics
 - **Spoken Languages:** English, French and Hebrew
 
 ## Projects
+**Eli7 - Anesthesiology Study App**  
+A [web](https://elishou.com) and mobile app to study for the national Anesthesiology residency exam.
+Published on the [Apple Store](https://itunes.apple.com/il/app/eli7/id1380037770?mt=8) and on [Google Play](https://play.google.com/store/apps/details?id=com.elishou.eli7).  
+*2018 &ndash; Present*
+
 **Anesthesia Plans**  
 Anesthesia Plans helps anesthesiologists build their anesthetic treatment in a few easy steps.  
 Published on the [Apple Store](https://itunes.apple.com/il/app/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%95%D7%AA-%D7%94%D7%A8%D7%93%D7%9E%D7%94/id1402481339?mt=8) and on [Google Play](https://play.google.com/store/apps/details?id=com.elishou.anesthesiaplan).  
 Open sourced on [github](https://github.com/jeandavid/anesthesia_plan_ios).  
-*2018*
-
-**Eli7 - Anesthesiology Study App**  
-A mobile app to study for the national Anesthesiology residency exam.   
-Published on the [Apple Store](https://itunes.apple.com/il/app/eli7/id1380037770?mt=8) and on [Google Play](https://play.google.com/store/apps/details?id=com.elishou.eli7).  
 *2018*
 
 ## Volunteer Experience
