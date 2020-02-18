@@ -1,5 +1,6 @@
 > [GitHub](https://www.github.com/jeandavid) |
 [LinkedIn](https://www.linkedin.com/in/jeandavidmp) |
+[Medium](https://medium.com/@jeandavidpeirolo) |
 [jdpeirolo@gmail.com](mailto:jdpeirolo@gmail.com) |
 [+972-54-727-5464](tel:00972547275464)
 
