@@ -4,7 +4,7 @@
 [jdpeirolo@gmail.com](mailto:jdpeirolo@gmail.com) |
 [+972-54-727-5464](tel:00972547275464)
 
-# Jean-David Morgenstern &ndash; Mobile Software Engineer
+# Jean-David Morgenstern &ndash; iOS Software Engineer
 I thrive in a creative and vigorous atmosphere where my coding skills and interpersonal skills are put in action. I spent 4 years designing and building apps from zero to launch, and now work on the mobile infrastructure @Houzz. This has given me experience with the entire life cycle of web and mobile apps, both on iOS and Android. From my entrepreneurial mindset I bring self discipline, courage, and open-mindedness, while my passion for coding remains constant. I write Swift code every day.
 
 ## Experience
